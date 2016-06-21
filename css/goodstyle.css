@@ -1,4 +1,4 @@
-body{
+ body{
 	background-color: #1B435D;
 	font-family: sans-serif;
   margin: 0;
@@ -35,5 +35,7 @@ p {
 
 
 .content {
+  background-color: #ff5c33;
   margin-left: 2em;
+  border-radius: 25px;
 }
